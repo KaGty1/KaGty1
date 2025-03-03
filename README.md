@@ -1,5 +1,5 @@
-- 👋 Hi, I’m KaGty1
+- 👋 Hi, I’m KaGty1, a student from NEU in China
 - 👀 I’m interested in web security and digging for vulnerabilities to obtain some 💰money💰
 - 🌱 I’m currently learning java sercurity
-- 💞️ I’m looking to collaborate on becoming a powerful bounty hunter security researcher
+- 💞️ I’m looking to collaborate on becoming a powerful bounty hunter and a security researcher
 - 📫 If you like -> you can visit my blog -> http://KaGty1.github.io -> to know more about me
