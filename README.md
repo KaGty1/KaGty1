@@ -1,4 +1,3 @@
-- 👋 Hi, I’m KaGty1, a student from NEU in China.
-- 👀 I’m interested in web security digging for vulnerabilities.
-- 💞️ I’m looking to collaborate on becoming a powerful bounty hunter and a security researcher
+- 👋 Hi, I’m KaGty1, a third-year student from NEU in China
+- 👀 I’m studying in web security, especially in Java Security、Domain Penetration、and Cloud Security
 - 📫 If you want to know more about me -> you can visit my blog -> http://KaGty1.github.io
