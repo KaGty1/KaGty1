@@ -48,8 +48,6 @@
 
 **百度 Baidu** · Security Engineer
 
-安全风险评估治理 & 办公网安全
-
 `2026.02 - Now`
 
 </td>
