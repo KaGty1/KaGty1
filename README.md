@@ -22,30 +22,6 @@
 </td>
 <td>
 
-**微步在线 ThreatBook** · Vulnerability Researcher
-
-`2025.06 - 2025.09`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img width="100" alt="Qianxin" src="https://github.com/user-attachments/assets/7bf7e13b-0cb3-4b12-961c-6111dc97c6ba" />
-</td>
-<td>
-
-**奇安信 Qianxin · 观星实验室** · Red Team
-
-`2025.10 - 2026.01`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img width="100" alt="Baidu" src="https://github.com/user-attachments/assets/087b9865-3a24-4d77-8478-08c9dce4a1c0" />
-</td>
-<td>
-
 **百度 Baidu** · Security Engineer
 
 `2026.02 - 2026-05`
@@ -59,6 +35,33 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=KaGty1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+
+**奇安信 Qianxin · 观星实验室** · Red Team
+
+`2025.10 - 2026.01`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img width="100" alt="Baidu" src="https://github.com/user-attachments/assets/087b9865-3a24-4d77-8478-08c9dce4a1c0" />
+</td>
+<td>
+
+
+**微步在线 ThreatBook** · Vulnerability Researcher
+
+`2025.06 - 2025.09`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img width="100" alt="Qianxin" src="https://github.com/user-attachments/assets/7bf7e13b-0cb3-4b12-961c-6111dc97c6ba" />
+</td>
+<td>
+
 
 *"Break it to make it safer."*
 
