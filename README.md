@@ -28,9 +28,7 @@
 
 </td>
 </tr>
-</table>
 
----
 
 <div align="center">
 
@@ -61,6 +59,9 @@
 <img width="100" alt="Qianxin" src="https://github.com/user-attachments/assets/7bf7e13b-0cb3-4b12-961c-6111dc97c6ba" />
 </td>
 <td>
+</table>
+
+----
 
 
 *"Break it to make it safer."*
