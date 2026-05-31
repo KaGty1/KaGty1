@@ -48,7 +48,7 @@
 
 **百度 Baidu** · Security Engineer
 
-`2026.02 - Now`
+`2026.02 - 2026-05`
 
 </td>
 </tr>
