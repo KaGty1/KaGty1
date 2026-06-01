@@ -2,7 +2,7 @@
 
 # Hi, I'm KaGty1 👋
 
-**Security Engineer · Red Team · LLM for Security**
+**Security Engineer · LLM for Security · Security for LLM · Cloud Native Security · Red Team**
 
 Third-year student at Northeastern University, China
 
