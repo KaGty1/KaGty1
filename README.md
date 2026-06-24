@@ -25,16 +25,16 @@ Just an ordinary person who loves security and life.
 ## 💼 Experience
 
 - **阿里巴巴 (杭州) / Alibaba** · Security Engineer  
-  `2026.06 - Now`
+
 
 - **百度 (北京) / Baidu** · Security Engineer  
-  `2026.02 - 2026.05`
+
 
 - **奇安信 (北京) / Qianxin · 观星实验室** · Red Team  
-  `2025.10 - 2026.01`
+
 
 - **微步在线 (北京) / ThreatBook** · Vulnerability Researcher  
-  `2025.06 - 2025.09`
+
 
 ---
 
