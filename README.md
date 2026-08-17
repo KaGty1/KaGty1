@@ -2,7 +2,7 @@
 
 # Hi, I'm KaGty1 👋
 
-**Security Engineer · LLM for Security · Security for LLM · Cloud Native Security · Red Team**
+**AI Security Engineer · LLM for Security · Security for LLM · Cloud Native Security · Red Team**
 
 Third-year student at Northeastern University, China
 
@@ -24,7 +24,7 @@ Just an ordinary person who loves security and life.
 
 ## 💼 Experience
 
-- **阿里巴巴 (杭州) / Alibaba** · Security Engineer  
+- **阿里巴巴 (杭州) / Alibaba** · AI Security Engineer  
 
 
 - **百度 (北京) / Baidu** · Security Engineer  
