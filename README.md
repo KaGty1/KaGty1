@@ -22,22 +22,6 @@ Just an ordinary person who loves security and life.
 
 ---
 
-## 💼 Experience
-
-- **阿里巴巴 (杭州) / Alibaba** · AI Security Engineer  
-
-
-- **百度 (北京) / Baidu** · Security Engineer  
-
-
-- **奇安信 (北京) / Qianxin · 观星实验室** · Red Team  
-
-
-- **微步在线 (北京) / ThreatBook** · Vulnerability Researcher  
-
-
----
-
 ## 🔐 Focus Areas
 
 - LLM for Security
