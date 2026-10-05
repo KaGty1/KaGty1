@@ -8,7 +8,6 @@
 <p>
   <a href="https://kagty1.github.io"><img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="Blog" /></a>
   <a href="https://github.com/KaGty1"><img src="https://img.shields.io/github/followers/KaGty1?label=Followers&style=for-the-badge&color=0D1117&logo=github" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KaGty1&label=Views&color=0D1117&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
